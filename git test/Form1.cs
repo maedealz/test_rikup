@@ -21,5 +21,10 @@ namespace git_test
         {
             MessageBox.Show("jjjjjjjjjjjj");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int x = 0;
+        }
     }
 }
