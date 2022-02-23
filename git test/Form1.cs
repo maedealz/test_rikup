@@ -24,7 +24,7 @@ namespace git_test
 
         private void button3_Click(object sender, EventArgs e)
         {
-            int x = 0;
+            int x = 1;
         }
     }
 }
